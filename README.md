@@ -1,8 +1,13 @@
-# Trouble Painter
-**Trouble Painter** is a drawing Mafia game where players must identify the Trouble Painter hidden among the Good Painters through a "Continue the Drawing" challenge.
-- [AppStore](https://apps.apple.com/us/app/trouble-painter-drawing-mafia/id6504225709)
+# Trouble Painter 🪄
+- [Gemini Competition](https://ai.google.dev/competition/projects/trouble-painter-drawing-mafia-game)
 - [PlayStore](https://play.google.com/store/apps/details?id=kr.co.devstory.xpr)
+- [AppStore](https://apps.apple.com/us/app/trouble-painter-drawing-mafia/id6504225709)
 - [Youtube](https://youtu.be/tgqa7e4jEeM)
+
+![page1](https://github.com/user-attachments/assets/c2774af5-97c2-439d-b45b-ddee3d796600)
+![page2](https://github.com/user-attachments/assets/cf220f1a-7634-4502-886a-c0d482f09385)
+![page3](https://github.com/user-attachments/assets/cfa39950-498d-494e-865d-ccc53be41178)
+![page4](https://github.com/user-attachments/assets/e466b802-8795-41f4-8a1f-2d533fd4e2ba)
 
 ## How to Play
 1. Gather 3 to 10 players.
@@ -50,7 +55,6 @@ lib
  │   ├─ pages
  │   └─ routes
  ├─ core
- │   ├─ data
  │   ├─ localization
  │   ├─ theme
  │   └─ utils
